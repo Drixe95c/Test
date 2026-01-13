@@ -1,0 +1,6 @@
+TestLogin: FAIL
+TestCheckout: FAIL
+TestProfile: PASS
+Total tests: 3
+Passed: 1
+Failed: 2

@@ -1,0 +1,19 @@
+[INFO] 2026-01-10 09:00:01 - Starting test execution
+[INFO] Loading environment: QA
+[INFO] Initializing browser: Chrome
+[INFO] TestLogin started
+[INFO] User navigates to login page
+[ERROR] ElementNotFoundException: #submit-button
+[INFO] Retrying TestLogin
+[ERROR] ElementNotFoundException: #submit-button
+[INFO] TestLogin failed
+[INFO] TestCheckout started
+[INFO] User adds product to cart
+[INFO] User proceeds to checkout
+[ERROR] TimeoutException: payment service not responding
+[INFO] TestCheckout failed
+[INFO] TestProfile started
+[INFO] User updates profile
+[INFO] TestProfile passed
+[INFO] Test execution finished with errors
+

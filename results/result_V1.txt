@@ -1,0 +1,6 @@
+[200~TestLogin: PASS
+TestCheckout: PASS
+TestProfile: PASS
+Total tests: 3
+Passed: 3
+Failed: 0
